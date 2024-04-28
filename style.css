@@ -1,0 +1,61 @@
+body {
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.section-head {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.section-head__info {
+  margin: 0;
+  color: blanchedalmond;
+}
+
+.img-one {
+  border: solid black 2px;
+  display: inline-block;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.food-name,
+.desc {
+  margin: 0;
+  padding-left: 10px;
+}
+
+.desc {
+  font-size: 15px;
+}
+
+.button {
+  border-style: none;
+  background-color: black;
+  color: chartreuse;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.table {
+  background-color: black;
+  color: white;
+  display: block;
+  padding-left: 600px;
+  margin: 0;
+}
+
+.submit {
+  background-color: red;
+  border-style: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: block;
+}
